@@ -1,0 +1,19 @@
+.odd-numbers{
+    background-color: #ffcccb;
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+#even-lower{
+    color: #4169e1;
+    font-size: 36px
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#even-higher{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
